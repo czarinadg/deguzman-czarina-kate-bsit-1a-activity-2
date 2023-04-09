@@ -115,3 +115,12 @@ h2{
     margin-right: 10px;
 
 }
+
+#services li:hover{
+    box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.3);
+
+}
+
+#services li:first-child{
+    background-color: orangered;
+}
